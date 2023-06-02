@@ -1,0 +1,12 @@
+1. ¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+mkdir Peliculas Peliculas/Infantiles Peliculas/Accion Peliculas/Terror Peliculas/Comedia Peliculas/Romanticas
+
+2. ¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+touch
+touch Peliculas/Infantiles/"Intenzamente.txt" Peliculas/Infantiles/"El juego del miedo.xls" Peliculas/Infantiles/"Rapido y furioso.pdf" Peliculas/Infantiles/"Titanic.jpg"
+
+3. Estando ubicados en la carpeta DH crear una carpeta llamada Prueba dentro de la carpeta Romanticas en un solo comando y escribirlo aquí.
+mkdir ../Accion/Prueba2
+
+4. Estando ubicados en la carpeta Romanticas crear una carpeta llamada Prueba2 dentro de la carpeta Accion
+mkdir ../Accion/Prueba2
