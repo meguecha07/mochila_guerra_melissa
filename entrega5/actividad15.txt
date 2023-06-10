@@ -1,0 +1,9 @@
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+R/Se puede utilizar en todos los sistemas si contamos con el compilador/interprete
+
+¿Qué tipo de maquina virtual es VirtualBox?
+R/de Sistemas
+
+Si tengo más de una maquina virtual instalada y una se rompe ¿Esto afecta a los demás? ¿Por qué?
+R/No, porque son maquinas aisladas una de otra
