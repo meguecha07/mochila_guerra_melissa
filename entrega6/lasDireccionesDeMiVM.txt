@@ -1,0 +1,5 @@
+La IP privada y publica de la maquina virtual: 
+la IP privada IP: 192.168.1.21
+La direccion MAC:255.255.255.0
+Es diferente a la IP pública y privada de nuestra maquina host?
+si
